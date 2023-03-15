@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning in Princess Nourah Bint Abdul Rahman University
 - 💞️ I’m looking to collaborate on Apple Academy
-- 📫 How to reach me joudalosaimi77@gmail.com
+- 📫 How to reach me Joudbalosaimi@gmail.com
 
 <!---
 JoudAlosaimi/JoudAlosaimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
